@@ -1,44 +1,39 @@
-# Food Delivery App
+# Flutter Food Delivery App
+# About
+This is a Flutter-based food delivery application that I built to improve my mobile app development skills. The app allows users to browse food items, explore different categories, and experience a simple food ordering interface with a clean and responsive design.
+Working on this project helped me understand how Flutter is used to create modern mobile applications and how different screens can be connected to provide a smooth user experience.
+# Features
+- Clean and responsive user interface
+- Food categories and menu browsing
+- Product detail screens
+- Simple navigation between pages
+- Attractive food images and icons
+- Reusable Flutter widgets
 
-A Flutter-based food delivery mobile application with onboarding, restaurant browsing, menu discovery, item details, order checkout, payment selection, profile management, and order confirmation screens.
-
-## Features
-
-- Onboarding, login, signup, OTP, reset password, and new password screens
-- Home screen with food search, categories, popular restaurants, and recent items
-- Bottom navigation for Menu, Offers, Home, Profile, and More sections
-- Menu category pages and food item detail screen
-- Quantity selection, favorites UI, and cart/order navigation
-- Checkout flow with delivery address, payment method selection, price summary, and order confirmation
-- Profile, payment details, inbox, notifications, address change, and order history screens
-- Custom Metropolis font and image assets for a polished mobile UI
-
-## Tech Stack
-
+# Technologies Used
 - Flutter
 - Dart
-- Material UI
-- Stateful widgets
-- Custom reusable widgets
-- Asset and font management
+- Material Design
+- Android Studio
+- iOS native support
+- Web support
 
-## Getting Started
+# What I Learned
+While building this project, I learned:
+- Building mobile apps using Flutter
+- Creating responsive UI layouts
+- Navigation between multiple screens
+- Managing project assets
+- Organizing Flutter project files
+- Improving app design using reusable widgets
 
-Install Flutter, then run:
+# Future Improvements
+- User login and authentication
+- Cart and checkout functionality
+- Online payment integration
+- Order tracking
+- Backend and database support
 
-```bash
-flutter pub get
-flutter run
-```
-
-## Project Structure
-
-```text
-lib/
-  common/
-  common_widget/
-  view/
-assets/
-  fonts/
-  img/
-```
+# Author
+**Sakshi Yadav** BTech CSE(3rd year)
+This project was built as part of my learning journey in Flutter and mobile app development.
